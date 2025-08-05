@@ -1,0 +1,8 @@
+{
+  "name": "RagiumRadio",
+  "displayName": "RAGIUM Radio",
+  "website": "https://ragium.com/pl/radio",
+  "main": "presence.js",
+  "injectable": true,
+  "domains": ["ragium.com"]
+}
